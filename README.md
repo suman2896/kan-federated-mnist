@@ -62,7 +62,7 @@ pip install -r requirements.txt
 ## 📈 Example Output
 
 <p align="center">
-  <img src="assets/loss_accuracy_plot.png" width="450"/>
+  <img src="images/Curves.png" width="450"/>
 </p>
 
 Accuracy improves steadily across communication rounds.  
@@ -72,9 +72,12 @@ Spline activations adapt to edge patterns and shape details.
 
 ## 🖼️ Sample Predictions
 
+<p align="center">
+  <img src="images/Output.png" width="450"/>
+</p>
+
 ```python
-Predicted: 3, Actual: 3
-Predicted: 7, Actual: 7
+Predicted: 0, True: 0
 ```
 
 ---
