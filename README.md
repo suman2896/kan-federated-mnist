@@ -51,7 +51,7 @@ The model is trained across multiple **non-IID clients** without sharing raw dat
 ### ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/kan-federated-mnist.git
+git clone https://github.com/suman2896/kan-federated-mnist.git
 cd kan-federated-mnist
 pip install -r requirements.txt
 ```
@@ -86,4 +86,23 @@ Predicted: 7, Actual: 7
 - Simulated **non-IID split** across 5 clients  
 
 ---
+
+## 📬 Contributing
+
+Contributions are welcome and appreciated! If you’d like to help improve this project:
+
+1. **Fork** the repository  
+2. **Clone** your fork  
+   ```bash
+   git clone https://github.com/suman2896/kan-federated-mnist.git
+   ```
+3. **Create a new branch**  
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+4. **Make your changes** and commit them  
+5. **Push to your fork** and submit a **Pull Request**
+
+Make sure your code follows clean coding standards and is well-documented.  
+If you're contributing a new feature or improvement, please also update the documentation or usage instructions as needed.
 
